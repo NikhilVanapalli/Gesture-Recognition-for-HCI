@@ -8,7 +8,7 @@ jupyter-core==4.6.1
 matplotlib==3.0.2
 mnist==0.2.2
 numpy==1.16.1
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 pandas==0.25.3
 pickleshare==0.7.5
 Pillow==6.2.1
